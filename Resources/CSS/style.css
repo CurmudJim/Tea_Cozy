@@ -35,4 +35,30 @@ header a {
 
 .mission {
   padding-top: 70px;
+  height: 700px;
+  width: 1200px;
+}
+
+.title {
+  display: inline-block flex;
+  background-color: black;
+  position: relative;
+  top: -475px;
+  padding: 0px 0px;
+}
+
+.title h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 0px;
+  padding: 10px 0px;
+}
+
+.title h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 0px;
+  padding: 10px 0px;
 }
